@@ -35,7 +35,9 @@ Explore todas as funcionalidades em [Funcionalidades](https://atendemail.com.br/
 
 ## Teste a Plataforma AtendeMail 📧
 
-<img src="https://github.com/evolucaoit/assets/raw/main/_6b0f0313-363f-4d79-ab69-a4a121e52a31.jpeg" alt="AtendeMail" width="200" height="200">
+<p align="center">
+  <img src="https://github.com/evolucaoit/assets/raw/main/_6b0f0313-363f-4d79-ab69-a4a121e52a31.jpeg" alt="AtendeMail" width="200" height="200">
+</p>
 
 Clique [aqui](mailto:vendas@atendemail.com.br?subject=Teste%20da%20Plataforma%20AtendeMail&body=Olá,%0A%0AGostaria%20de%20saber%20mais%20sobre%20a%20plataforma%20AtendeMail.%20%0A%0AObrigado!) para enviar um e-mail para vendas@atendemail.com.br e ser atendido pela May, nossa agente de vendas virtual.
 
