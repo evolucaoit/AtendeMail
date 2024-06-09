@@ -28,6 +28,14 @@ Gerencie seus e-mails de forma eficiente e profissional. Transforme a maneira co
 
 Explore todas as funcionalidades em [Funcionalidades](https://atendemail.com.br/#functionalities).
 
+## Teste a Plataforma AtendeMail 📧
+
+![AtendeMail](https://github.com/evolucaoit/assets/blob/main/_6b0f0313-363f-4d79-ab69-a4a121e52a31.jpeg)
+
+Clique [aqui](mailto:vendas@atendemail.com.br?subject=Teste%20da%20Plataforma%20AtendeMail&body=Olá%2C%0D%0A%0D%0AGostaria%20de%20saber%20mais%20sobre%20a%20plataforma%20AtendeMail.%20%0D%0A%0D%0AObrigado!) para enviar um e-mail para vendas@atendemail.com.br e ser atendido pela May, nossa agente de vendas virtual.
+
+Você será respondido em questão de segundos pela nossa agente de atendiemnto ao cliente, usando nossa tecnologia de inteligência articial voltado ao atendimento ao cliente e vendas!
+
 ---
 
 ## 💼 Planos
