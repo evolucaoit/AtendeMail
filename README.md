@@ -1,6 +1,6 @@
 # AtendeMail 📧✨
 
-**[AtendeMail](https://www.atendemail.com.br)** - Solução Completa de Atendimento de E-mails
+**[AtendeMail](https://www.atendemail.com.br)** - Solução Completa de Atendimento de E-mails com inteligência artifical
 
 <!-- Logo AtendeMail -->
 <p align="center">
