@@ -2,6 +2,11 @@
 
 **[AtendeMail](https://www.atendemail.com.br)** - Solução Completa de Atendimento de E-mails
 
+<!-- Logo AtendeMail -->
+<p align="center">
+  <img src="https://github.com/evolucaoit/assets/raw/main/_d757a31c-409b-42ae-89e6-b659d7863501%20(1).png" alt="Logo AtendeMail" width="300">
+</p>
+
 Gerencie seus e-mails de forma eficiente e profissional. Transforme a maneira como você se comunica com seus clientes.
 
 ---
