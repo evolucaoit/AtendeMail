@@ -51,7 +51,7 @@ Você será respondido em questão de segundos pela nossa agente de atendimento 
 Perfeito para pequenos negócios
 - **1 Agente**
 - **Limite diário**: 100 e-mails
-- **Preço**: R$29,90/mês
+- **Preço**: R$89,90/mês
 
 [Contratar Agora](https://www.atendemail.com.br/#pricing)
 
@@ -59,7 +59,7 @@ Perfeito para pequenos negócios
 Ideal para empresas médias
 - **3 Agentes**
 - **Limite diário**: 300 e-mails
-- **Preço**: R$39,90/mês
+- **Preço**: R$129,90/mês
 
 [Contratar Agora](https://www.atendemail.com.br/#pricing)
 
@@ -67,7 +67,7 @@ Ideal para empresas médias
 Para grandes corporações
 - **Mais de 5 Agentes** (Customizado)
 - **Limite diário**: Personalizado
-- **Preço**: A partir de R$59,90/mês
+- **Preço**: A partir de R$199,90/mês
 
 [Contratar Agora](https://www.atendemail.com.br/#pricing)
 
