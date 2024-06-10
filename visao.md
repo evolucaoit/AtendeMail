@@ -2,7 +2,7 @@
 
 ## Nossa Visão
 
-🔭 **Ser reconhecida globalmente como a principal escolha em automação de atendimento de e-mails, utilizando inteligência artificial para revolucionar a maneira como as empresas se comunicam com seus clientes.**
+🔭 **Ser reconhecida Nacionalmente não só como a primeira mas como a principal escolha custo benefício em automação de atendimento de e-mails com inteligência artifical, utilizando inteligência artificial para revolucionar a maneira como as empresas se comunicam com seus clientes.**
 
 ---
 
